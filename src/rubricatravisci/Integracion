@@ -1,0 +1,27 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+package rubricatravisci;
+
+/**
+ *
+ * @author Karen Moreira
+ */
+public class RubricaTRAVISCI {
+
+    /**
+     * 
+     */
+    public static void main(String[] args) {
+       
+        System.out.println("Hola Mundo TravisCi");
+        System.out.println("Facultad de Ciencias Informáticas");
+        System.out.println("Ingenieria de Software");
+        System.out.println("Karen Yuliana Moreira Sánchez");
+        
+    }
+    
+}
