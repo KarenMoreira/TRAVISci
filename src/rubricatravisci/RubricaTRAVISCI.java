@@ -8,7 +8,7 @@ package rubricatravisci;
 
 /**
  *
- * @author PERSONAL
+ * @author Karen Moreira
  */
 public class RubricaTRAVISCI {
 
@@ -19,6 +19,7 @@ public class RubricaTRAVISCI {
        
         System.out.println("Hola Mundo TravisCi");
         System.out.println("Facultad de Ciencias Informáticas");
+        System.out.println("Ingenieria de Software");
     }
     
 }
