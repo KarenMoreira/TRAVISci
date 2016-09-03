@@ -20,6 +20,8 @@ public class RubricaTRAVISCI {
         System.out.println("Hola Mundo TravisCi");
         System.out.println("Facultad de Ciencias Informáticas");
         System.out.println("Ingenieria de Software");
+        System.out.println("Karen Yuliana Moreira Sánchez");
+        System.out.println("5to B");
     }
     
 }
